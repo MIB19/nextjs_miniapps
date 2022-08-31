@@ -49,6 +49,13 @@ module.exports = {
         onboard: '#EC9C1C',
         button: '#EAB139'
       },
+      TMR: {
+        20: '#4E3B13',
+        35: '#9C7626',
+        80: '#F8E5BD',
+        90: '#FDF6E9',
+
+      },
     }),
     columns: {
       auto: 'auto',
