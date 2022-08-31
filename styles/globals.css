@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-over {
+  border: 0px !important;
+}
+.input-over:hover:focus:active {
+  border: 0px !important;
+  border-color: black !important;
+  outline: none !important;
+  box-shadow: 0 0 #0000 !important;
+  box-sizing: none !important;
+}
